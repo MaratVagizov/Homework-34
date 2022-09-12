@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100;200;300;400;500;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    font-family: 'Anek Malayalam', sans-serif;
+}
+
+
+.container {
+    margin: 20px auto;
+    width: 609px;
+    /* background-color: royalblue; */
+}
+
+.top-txt {
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.counters {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 44px;
+}
+
+.top-count {
+    margin-right: 20px;
+}
+
+.input-blocks {
+    width: 100%;
+    display: flex;
+}
+
+.form {
+    text-align: center;
+}
+
+.top-input-txt {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.bot-input-txt {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    color: #595959;
+}
+
+.left-inputs {
+    margin-right: 55px;
+}
+
+.left-input {
+    margin-bottom: 31px;
+}
+
+.right-input {
+    margin-bottom: 23px;
+}
+
+.submit-btn {
+    width: 277px;
+    height: 59px;
+    background: #4200FF;
+    border: 2px solid #4200FF;
+    border-radius: 4px;
+    margin-top: 27px;
+    color: white;
+}
+
+.input {
+    width: 277px;
+    height: 59px;
+    border: 2px solid #949494;
+    border-radius: 4px;
+    padding: 20px 12px;
+}
+
+.active-blue {
+    border: 2px solid #543FD3;
+}
+
+
+.color-red {
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: red;
+}
+
